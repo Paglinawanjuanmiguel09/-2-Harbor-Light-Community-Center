@@ -1,4 +1,4 @@
-# -2-Harbor-Light-Community-Center
+# -Harbor-Light-Community-Center
 <html> 
 <head> 
 <title>Harbor Light Community Center</title>
